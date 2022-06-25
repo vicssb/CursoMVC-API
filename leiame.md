@@ -4,54 +4,57 @@
 
 
 <img src="./img/logo.png" alt="Logo .NET" width="200"/> <img src="./img/logo2.png" alt="Logo Azure" width="140"/> <img src="./img/logo3.png" alt="Logo MVC" width="140"/>
-  
-## Building an app using motion sensor with React Native - 2022
  
-MVC System - Products and Categories API 
+## Application development with .NET - 2022
  
-## Technology 
+Sistema MVC - API de produtos e categorias 
  
-Here are the technologies used in this project
  
-* Visual Studio Code with the following technologies:
+## Tecnologia 
+ 
+Aqui estão as tecnologias usadas neste projeto
+ 
+* Visual Studio Code com as seguintes tecnologias:
   - Entity Framework
   - SqlServer
   - Migration
   - Code first
   - Swagger
   - MOQ
+
  
+## Resultados
  
-## Results
- 
- <img src="./img/api1.png" alt="tela1" width="500"/>
+<img src="./img/api1.png" alt="tela1" width="500"/>
  <img src="./img/mvc1.png" alt="tela2" width="500"/>
  <img src="./img/mvc2.png" alt="tela1" width="500"/>
  <img src="./img/mvc3.png" alt="tela2" width="500"/>
  
+ 
+
  
  
 ## Links
  
   - DIO: https://www.dio.me/
   
-  - Repository: https://github.com/vicssb/CursoMVC-API
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
+  - Repositório: https://github.com/vicssb/CursoMVC-API
+    - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato
+      diretamente em vez de usar o rastreador de problemas. Valorizamos o seu esforço
+      para melhorar a segurança e privacidade deste projeto!
  
  
-## Versioning
+## Versão
  
 1.3.0
  
  
-## Author
+## Autor
  
 * **Victor Sérgio Silva Barros**: 
 
 - @vicssb (https://github.com/vicssb)
 - vicssb@gmail.com
  
-Please follow github and join us!
-Thanks to visiting me and good coding!
+Por favor, siga o github e junte-se a nós!
+Obrigado por me visitar e boa codificação!
