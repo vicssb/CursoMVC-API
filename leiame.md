@@ -5,7 +5,7 @@
 
 <img src="./img/logo.png" alt="Logo .NET" width="200"/> <img src="./img/logo2.png" alt="Logo Azure" width="140"/> <img src="./img/logo3.png" alt="Logo MVC" width="140"/>
  
-## Application development with .NET - 2022
+## Desenvolvimento de aplicativos com .NET - 2022
  
 Sistema MVC - API de produtos e categorias 
  
